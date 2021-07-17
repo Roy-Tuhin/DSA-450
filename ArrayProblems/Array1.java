@@ -1,5 +1,5 @@
 //..................................................... Reverse Array element.....................................................
-package arrayProblemsPkg;
+package ArrayProblems;
 
 
 public class Array1 {
